@@ -33,4 +33,4 @@ Welcome to my JavaScript Data Structures and Algorithms repository! Here, you'll
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/your-username/js-dsa.git](https://github.com/KRISHNAKUMARPS2002/JAVA_SCRIPT_DSA.git)
+https://github.com/KRISHNAKUMARPS2002/JAVA_SCRIPT_DSA.git
